@@ -1,0 +1,67 @@
+.about {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.about h1 {
+    font-size: 32px;
+    margin-bottom: 30px;
+    color: #B25A3D;
+}
+
+.about-text {
+    font-size: 24px;
+    text-align: left;
+}
+
+.about-company {
+    display: flex;
+    gap: 40px;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.about-company-image {
+    text-align: left;
+}
+
+.about-company-image img {
+    width: 450px;
+}
+
+.about-company-text {
+    text-align: center;
+    font-size: 24px;
+    padding: 15px;
+    border: 5px solid black;
+    border-radius: 5px;
+    box-shadow: -5px 5px 10px #B25A3D;
+    height: 250px;
+
+}
+
+.about-company-text a {
+    color: #B25A3D;
+}
+
+.actions {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.actions h2 {
+    color: #B25A3D;
+    font-weight: bold;
+    margin-bottom: 50px;
+    font-size: 100px;
+    text-align: center;
+}
+
+.actions-items {
+    font-size: 85px;
+}
+
+.actions-items li {
+    margin-bottom: 150px;
+}
+

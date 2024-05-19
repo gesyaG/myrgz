@@ -1,0 +1,34 @@
+
+.contacts {
+    color: #000;
+    font-size: 14px;
+    padding-top: 20px;
+}
+
+.contacts h2 {
+    text-align: center;
+    color: #B25A3D;
+}
+
+.contacts iframe {
+    width: 100%;
+    height: 750px;
+    margin-top: 30px;
+    margin-bottom: 14px;
+}
+
+.contacts-data-title {
+    color: #B25A3D;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.contacts-data-text {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.contacts-data-text a {
+    color: #B25A3D;
+}
